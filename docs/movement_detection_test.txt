@@ -1,0 +1,117 @@
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1156
+
+load:0x40078000,len:11456
+
+ho 0 tail 12 room 4
+
+load:0x40080400,len:2972
+
+entry 0x400805dc
+
+Temperatura: 6.30 °C - Umidade: 45.00 %
+
+Luminosidade: 571
+
+Distância do nível de água: 18 cm
+
+Irrigação desativada.
+
+Temperatura: 6.30 °C - Umidade: 45.00 %
+
+Luminosidade: 735
+
+Distância do nível de água: 19 cm
+
+Irrigação desativada.
+
+Temperatura: 6.30 °C - Umidade: 45.00 %
+
+Luminosidade: 916
+
+Distância do nível de água: 19 cm
+
+Irrigação desativada.
+
+Temperatura: 6.30 °C - Umidade: 45.00 %
+
+Luminosidade: 954
+
+Distância do nível de água: 19 cm
+
+Movimento detectado!
+
+Irrigação desativada.
+
+Temperatura: 6.30 °C - Umidade: 45.00 %
+
+Luminosidade: 1258
+
+Distância do nível de água: 18 cm
+
+Movimento detectado!
+
+Irrigação desativada.
+
+Temperatura: 6.30 °C - Umidade: 45.00 %
+
+Luminosidade: 1385
+
+Distância do nível de água: 18 cm
+
+Irrigação desativada.
+
+Temperatura: 6.30 °C - Umidade: 45.00 %
+
+Luminosidade: 1564
+
+Distância do nível de água: 18 cm
+
+Irrigação desativada.
+
+Temperatura: 6.30 °C - Umidade: 45.00 %
+
+Luminosidade: 1761
+
+Distância do nível de água: 18 cm
+
+Movimento detectado!
+
+Irrigação desativada.
+
+Temperatura: 6.30 °C - Umidade: 45.00 %
+
+Luminosidade: 1883
+
+Distância do nível de água: 18 cm
+
+Movimento detectado!
+
+Irrigação desativada.
+
+Temperatura: 6.30 °C - Umidade: 45.00 %
+
+Luminosidade: 1815
+
+Distância do nível de água: 18 cm
+
+Movimento detectado!
+
+Irrigação desativada.
+
+Temperatura: 6.30 °C - Umidade: 45.00 %
+
+Luminosidade: 1961
+
+Distância do nível de água: 18 cm
+
+Movimento detectado!
+
+Irrigação desativada.
