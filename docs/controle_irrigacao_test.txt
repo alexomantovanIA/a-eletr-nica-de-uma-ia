@@ -1,0 +1,357 @@
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+
+configsip: 0, SPIWP:0xee
+
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+
+mode:DIO, clock div:2
+
+load:0x3fff0030,len:1156
+
+load:0x40078000,len:11456
+
+ho 0 tail 12 room 4
+
+load:0x40080400,len:2972
+
+entry 0x400805dc
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1388
+
+Distância do nível de água: 212 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1421
+
+Distância do nível de água: 213 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1352
+
+Distância do nível de água: 213 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1328
+
+Distância do nível de água: 213 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1206
+
+Distância do nível de água: 213 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1130
+
+Distância do nível de água: 187 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1307
+
+Distância do nível de água: 150 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1523
+
+Distância do nível de água: 150 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1491
+
+Distância do nível de água: 107 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1740
+
+Distância do nível de água: 107 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1962
+
+Distância do nível de água: 107 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 2006
+
+Distância do nível de água: 34 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1960
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 2102
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1978
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 2046
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 55.00 %
+
+Luminosidade: 1855
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 2036
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 1951
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 2145
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 1974
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 1799
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 1751
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 1772
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 1641
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 1806
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 2014
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 2138
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 2117
+
+Distância do nível de água: 16 cm
+
+Temperatura: 31.10 °C - Umidade: 48.50 %
+
+Luminosidade: 1924
+
+Distância do nível de água: 16 cm
+
+Temperatura: 35.40 °C - Umidade: 48.50 %
+
+Luminosidade: 2074
+
+Distância do nível de água: 17 cm
+
+Temperatura: 35.40 °C - Umidade: 48.50 %
+
+Luminosidade: 2013
+
+Distância do nível de água: 17 cm
+
+Temperatura: 35.40 °C - Umidade: 48.50 %
+
+Luminosidade: 1979
+
+Distância do nível de água: 17 cm
+
+Temperatura: 35.40 °C - Umidade: 48.50 %
+
+Luminosidade: 1830
+
+Distância do nível de água: 17 cm
+
+Temperatura: 18.30 °C - Umidade: 48.50 %
+
+Luminosidade: 1901
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 18.30 °C - Umidade: 48.50 %
+
+Luminosidade: 2097
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 18.30 °C - Umidade: 48.50 %
+
+Luminosidade: 2062
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 18.30 °C - Umidade: 52.00 %
+
+Luminosidade: 2212
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 27.70 °C - Umidade: 52.00 %
+
+Luminosidade: 2373
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 32.80 °C - Umidade: 52.00 %
+
+Luminosidade: 2285
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 32.80 °C - Umidade: 52.00 %
+
+Luminosidade: 2333
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 32.80 °C - Umidade: 48.50 %
+
+Luminosidade: 2425
+
+Distância do nível de água: 16 cm
+
+Temperatura: 32.80 °C - Umidade: 52.00 %
+
+Luminosidade: 2576
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 32.80 °C - Umidade: 55.50 %
+
+Luminosidade: 2588
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 32.80 °C - Umidade: 55.50 %
+
+Luminosidade: 2514
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 32.80 °C - Umidade: 55.50 %
+
+Luminosidade: 2330
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
+
+Temperatura: 32.80 °C - Umidade: 55.50 %
+
+Luminosidade: 2341
+
+Distância do nível de água: 16 cm
+
+Irrigação desativada.
